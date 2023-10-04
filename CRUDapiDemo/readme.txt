@@ -25,14 +25,3 @@ Open the URL browser with 'URL/docs' that leads to the API documentation which i
                   }
     Put
     Delete
-
-Current Working Options:
-    Add New Todo
-    Edit
-    Complete
-    Undo (If task is mark as Completed)
-    Delete (from Edit Screen)
-
- Options that are under development:
-    Logout
-    User Authentication
